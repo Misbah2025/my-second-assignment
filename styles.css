@@ -178,7 +178,7 @@ nav .menu {
 
 
 .latest-img-3 {
-    background-image: url(../assets/deal-zabo.png);
+    background-image: url(assets/deal-zabo.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -216,7 +216,7 @@ nav .menu {
  /* colorful Bunch */
  #hero{
     height: 533px;
-    background:  url('../assets/news-letter-bg.png') no-repeat center / cover;
+    background:  url(assets/news-letter-bg.png) no-repeat center / cover;
     position: relative;
 }
 
