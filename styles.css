@@ -90,7 +90,7 @@ nav .menu {
 
 /* Least Deal */
 .latest-img-1 {
-    background-image: url(../assets/deal-ana.png);
+    background-image: url(assets/deal-ana.png);
     background-size: cover;
     background-repeat: no-repeat;
     /*background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)) url(../assets/deal-ana.png);
@@ -137,7 +137,7 @@ nav .menu {
 
 
 .latest-img-2 {
-    background-image: url(../assets/deal-bloom.png) ;
+    background-image: url(assets/deal-bloom.png) ;
     background-size: cover;
     background-repeat: no-repeat;
     width: 337px;
